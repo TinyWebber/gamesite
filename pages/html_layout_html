@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Об HTML вёрстке</title>
+</head>
+<body>
+    <h1>О языке HTML</h1>
+    <p>
+        HTML - это язык разметки , для более подробной информации
+        <a href="https://ru.wikipedia.org/wiki/HTML">сюда.</a>
+        За официальной информацией о тегах
+        <a href="https://developer.mozilla.org/ru/docs/WEB/HTML">сюда</a>
+        А за неофициальной , но удобной информацией
+        <a href="http://htmlbook.ru/html">сюда</a>
+
+    </p>
+    <ul>
+           <li>
+               <a href="../index.html">Главная страница</a>
+           </li>
+           <li>
+               <a href="css_layout.html">CSS оформление</a>
+           </li>
+           <li>
+               <a href="js_coding.html">JS программирование</a>
+           </li>
+    </ul>
+</body>
+</html>
