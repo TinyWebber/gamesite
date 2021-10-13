@@ -2,20 +2,21 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <script src="script.js"></script>
     <title>Document</title>
 </head>
 <body>
 <table border="1" width="100%">
-<tr>
+<tr rowspan="7">
 <td>Название</td>
 <td>Логин</td>
 <td>Пароль</td>
 <td></td>
 </tr>
-<tr>
+<tr rowspan="3">
 <td>Навигация</td>
 </tr>
-<tr>
+<tr rowspan="25">
 <td></td>
 <td>Использование таблиц с невидимой границей — известный способ верстки, применяемый на множестве сайтов. 
 Такая таблица фактически представляет собой модульную сетку, в которой удобно размещать отдельные элементы веб-страницы. 
