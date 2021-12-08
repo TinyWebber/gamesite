@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css_2">
+    <link rel="stylesheet" href="style_2.css">
     <title>Об HTML вёрстке</title>
 </head>
 <body>
@@ -21,7 +21,7 @@
                <a href="../index.html">Главная страница</a>
            </li>
            <li>
-               <a href="css_layout.html">CSS оформление</a>
+               <a href="images/О CSS">">CSS оформление</a>
            </li>
            <li>
                <a href="js_coding.html">JS программирование</a>
