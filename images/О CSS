@@ -15,7 +15,8 @@
        <td>Пароль</td>
   </tr>
         <tr>
-       <td colspan="2" rowspan="2" >Главная страница вёрстка JS програмирование</td>      
+       <td colspan="2" rowspan="2" ><a href="../index.html"
+       .Главная страница вёрстка JS програмирование</td>      
         <tr></tr>
             </tr>
 </table>
