@@ -1,1 +1,42 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="script.js"></script>
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css_3">
+</head>
+  <body>
+    <table  bordercolor="purple" border="1" width="100%">
+      <tr>
+      <td><img src="../images/HTML5.jpg" a></td>
+      <td colspan="4" rowspan="2">Название</td>
+          <td>Логин</td>
+       <td>Пароль</td>
+  </tr>
+        <tr>
+       <td colspan="2" rowspan="2" >Навигация</td>      
+        <tr></tr>
+            </tr>
+</table>
+     <table border="1" width="100%">
+      <td rowspan ="2" colspan ="4">
+      <li><a href="../index.html">Главная Страница</a></li>
+      <li><a href="pages/">CSS оформление</a></li>
+      <li><a href="pages">JS программирование</a></li>
+      </td> 
+      <td  rowspan="1" сolspan ="1">
+         <p>
+.
+          </p> 
+          <p>
+ 
+       </td>
+        </p>  
+        <td>    
+        Подвал
+      </td>   
+     </tr>
+   </table>
+  </body>
+</html>
