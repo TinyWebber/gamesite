@@ -1,1 +1,16 @@
 <!DOCTYPE>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Drafting</title>
+    <link rel="stylesheet" href="styles/style.css"> 
+</head>
+<body>
+    <h1>
+cnv.moveTo(0,0)
+cnv.lineTo(250,0)
+cnv.moveTo(125,0)
+cnv.lineTo(125,250)
+   
+</body>
+</html>
